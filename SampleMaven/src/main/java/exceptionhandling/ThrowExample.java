@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exceptionhandling; //ExceptionHandling
 
 public class ThrowExample {
 	
