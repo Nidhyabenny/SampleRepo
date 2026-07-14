@@ -1,4 +1,4 @@
-package excelread;
+package excelread;   //Read data from excel
 
 import java.io.FileInputStream;
 import java.io.IOException;
